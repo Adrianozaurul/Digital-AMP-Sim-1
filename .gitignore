@@ -1,0 +1,31 @@
+# Build folders
+Builds/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+
+# JUCE generated binaries
+Binaries/
+JuceLibraryCode/
+
+# Compiled output
+*.exe
+*.dll
+*.pdb
+*.obj
+*.ilk
+*.lib
+
+# macOS
+.DS_Store
+
+# Linux
+*.o
+
+# Audio exports
+*.wav
+*.mp3
